@@ -1,0 +1,77 @@
+
+header{
+    text-align: center;
+    background-color: rgb(235, 175, 151);
+}
+ nav{
+     background-color: lightskyblue;
+     text-align: center;
+     color: green;
+ }
+ p.empresa1{
+     background-color: blue;
+     
+ }
+ img.empresa1{
+     float: left;
+     height: 130px;
+ }
+ section.empresa1{
+     border-top: blue 15px solid;
+     border-bottom: blue 15px solid;
+     
+ }
+ section.empresa2{
+    border-top: red 15px solid;
+    border-bottom:red 15px solid;
+    background-color: rgb(100, 194, 223);
+    
+}
+img.empresa2{
+    float: right;
+    height: 130px;
+    
+
+}
+p.lineaazul{
+    background-color: rgb(100, 194, 223);
+}
+
+span.tachado{
+text-decoration: line-through;
+
+}
+span.amarillo{
+    background-color: yellow;
+}
+footer{
+    text-align: center;
+    background-color: rgb(235, 175, 151);
+    font-size: small;
+}
+span.negrita{
+    font-weight: bold;
+}
+
+main.listas{
+    background-color: yellowgreen ;
+    color: blue;
+}
+table{
+    border: brown 1px solid;
+    text-align: center;
+}
+td{
+    width: 200px;
+    border: blue 1px solid;
+}
+td.horas{
+    font-weight: bold;
+    border-style: hidden;
+}
+caption{
+    font-weight: bold;
+}
+body.horario{
+    background-color: rgb(235, 175, 151);
+}
